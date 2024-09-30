@@ -35,6 +35,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-
-/src/app/blog-updates/api/
-/src/app/blog-updates/client/
+prisma/dev.db
